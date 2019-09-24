@@ -12,8 +12,13 @@ the network will take turns to enter a new word in response to the challenge bas
 
 ## Usage
 
-Clone this repository into any directory and run `python3 soloServer.py` to activate the network server. Then, run `python3 soloClient.py` to
-play the game.
+1. Clone this repository into any directory.
+
+2. Enter the "playground-word-game-ai" directory by typing `cd playground-word-game-ai`. 
+
+3. Start the network server by typing `python3 soloServer.py`. 
+
+4. Run the client program by typing `python3 soloClient.py`.
 
 ## Disclaimer
 
