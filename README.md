@@ -20,7 +20,7 @@ the network will take turns to enter a new word in response to the challenge bas
 
 ## Acknowledgements 
 
-- Chua Han Yong Darren | [@chydarren](https://github.com/chydarren)
+- **Darren Chua** | [@chydarren](https://github.com/chydarren)
 
 ## Credits
 
